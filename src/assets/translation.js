@@ -12,6 +12,11 @@ export const translation = {
     placeHolderCorreo: "Type your Mail...",
     textIngresar: "Login",
     textLogout: "Logout",
+    terminos: "Accept terms and Conditions",
+    ingresar: "Login",
+    campoRequerido: "Required Field",
+    emailInvalido: "Invalid Email",
+    acceptarTerminos: "Accept Terms and Conditions",
   },
   es: {
     inicio: "Inicio",
@@ -26,5 +31,11 @@ export const translation = {
     placeHolderCorreo: "Escribe tu Correo...",
     textIngresar: "Ingresar",
     textLogout: "Salir",
+    terminos: "Terminos y Condiciones",
+    ingresar: "Ingresar",
+    campoRequerido: "Campo Requerido",
+    emailInvalido: "Correo Invalido",
+    acceptarTerminos: "Aceptar Terminos y Condiciones",
+
   },
 };
